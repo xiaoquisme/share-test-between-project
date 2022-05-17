@@ -1,2 +1,3 @@
-# share-test-between-project
+= POC
+
 share tests by maven jar package between diff project
