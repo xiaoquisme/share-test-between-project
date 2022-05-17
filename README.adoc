@@ -1,3 +1,10 @@
 = POC
 
 share tests by maven jar package between diff project
+
+== steps
+. create a archunit tests project
+.. build to a jar then publish to maven center
+. creat new project
+.. add pre jar package
+.. run test defined in pre project
