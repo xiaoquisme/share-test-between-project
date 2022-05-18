@@ -1,0 +1,4 @@
+rootProject.name = 'share-test-between-project'
+include 'rules'
+include 'apps'
+
